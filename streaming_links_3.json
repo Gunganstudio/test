@@ -1,0 +1,14 @@
+[
+    {
+        "name": "New Sports Channel",
+        "link": "https:\/\/example.com\/new_stream.m3u8",
+        "api": "",
+        "scheme": "0"
+    },
+    {
+        "name": "Premium Sports",
+        "link": "https:\/\/example.com\/premium_stream.mpd",
+        "api": "new_api_key:new_api_secret",
+        "scheme": "1"
+    }
+]
